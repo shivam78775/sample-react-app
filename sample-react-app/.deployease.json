@@ -1,0 +1,8 @@
+{
+  "repo": "sample-react-app",
+  "owner": "shivam78775",
+  "branch": "gh-pages",
+  "deployDir": "dist",
+  "description": "Deployed using DeployEase",
+  "repoUrl": "https://github.com/shivam78775/sample-react-app.git"
+}
